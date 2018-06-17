@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: rs.aux
+The style file: IEEE.bst
+Database file #1: rs.bib
+Warning--string name "july" is undefined
+--line 28 of file rs.bib
+You've used 9 entries,
+            1838 wiz_defined-function locations,
+            495 strings with 5113 characters,
+and the built_in function-call counts, 1773 in all, are:
+= -- 109
+> -- 117
+< -- 0
++ -- 42
+- -- 33
+* -- 124
+:= -- 298
+add.period$ -- 9
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 98
+empty$ -- 204
+format.name$ -- 33
+if$ -- 397
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 9
+pop$ -- 52
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 26
+stack$ -- 0
+substring$ -- 0
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 10
+write$ -- 93
+(There was 1 warning)

@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{graph2005}
+Arunesh Mishra, Suman Banerjee, and William Arbaugh,
+\newblock ``Weighted coloring based channel assignment for wlans,''
+\newblock {\em Mobile Computer Communications Review (MC2R)}, vol. 9, no. 3,
+  July 2005.
+
+\bibitem{infocom2006}
+Arunesh Mishra, Vladimir Brik, Suman Banerjee, Aravind Srinivasan, and William
+  Arbaugh,
+\newblock ``A client-driven approach for channel management in wireless lans,''
+\newblock in {\em IEEE Infocom}, 2006.
+
+\bibitem{mobicom2006}
+Arunesh Mishra, Vivek Shrivastava, Dheeraj Agrawal, and Suman Banerjee,
+\newblock ``Distributed channel management in uncoordinated wireless
+  environments,''
+\newblock in {\em ACM Mobicom}, 2006.
+
+\bibitem{pov}
+Arunesh Mishra, Eric Rozner, Suman Banerjee, and William Arbaugh,
+\newblock ``Exploiting partially overlapping channels in wireless networks:
+  Turning a peril into an advantage,''
+\newblock in {\em ACM/USENIX Internet Measurement Conference (IMC)}, 2005.
+
+\bibitem{sigm2006}
+Arunesh Mishra, Vivek Shrivastava, Suman Banerjee, and William Arbaugh,
+\newblock ``Partially overlapped channels not considered harmful,''
+\newblock in {\em ACM Sigmetrics}, 2006.
+
+\bibitem{ccr-handoff}
+Arunesh Mishra, Minho Shin, and William Arbaugh,
+\newblock ``An empirical analysis of the ieee 802.11 mac layer handoff
+  process,''
+\newblock in {\em Computer Communications Review (ACM SIGCOMM) April}, 2003.
+
+\bibitem{security2004}
+Arunesh Mishra, Nick L.~Petroni Jr., William Arbaugh, and Timothy Fraser,
+\newblock ``Security issues in ieee 802.11 wireless-local area networks,''
+\newblock {\em Wiley Interscience Wireless Communications and Mobile Networking
+  Journal (Wiley Wireless)}, 2004.
+
+\bibitem{mishra2004}
+Arunesh Mishra, Min ho~Shin, and William~A. Arbaugh,
+\newblock ``Context caching using neighbor graphs for fast handoffs in a
+  wireless network,''
+\newblock in {\em Proceedings of IEEE Infocom}, 2004.
+
+\bibitem{shin2004}
+Minho Shin, Arunesh Mishra, and William~A. Arbaugh,
+\newblock ``Improving the latency of 802.11 hand-offs using neighbor graphs,''
+\newblock in {\em Proceedings of the MobiSys}, 2004.
+
+\bibitem{spark2007}
+Suman Banerjee, Arunesh Mishra, Vladimir Brik, Vivek Shrivastava, and Victor
+  Bahl,
+\newblock ``Towards an architecture for efficient spectrum slicing,''
+\newblock in {\em IEEE Hotmobile}, 2007.
+
+\bibitem{cong2007}
+Arunesh Mishra, Shravan Rayanchu, Ashutosh Shukla, and Suman Banerjee,
+\newblock ``Towards secure localization using wireless congruity,''
+\newblock in {\em IEEE Hotmobile}, 2007.
+
+\end{thebibliography}

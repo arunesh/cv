@@ -1,0 +1,318 @@
+% LaTeX resume using res.sty
+\documentstyle[fancyhead]{res} 
+% Use \documentstyle[fancyhead,newcent]{res} to get New Century Schoolbook
+% Postscript font; the fancyhead option is used to get 2 line header
+% Use \documentstyle[fancyhead]{res} to get default (Computer Modern) font
+\setlength{\topmargin}{-0.6in}  % Start text higher on the page 
+\setlength{\textheight}{9.8in}  % increase textheight to fit more on a page
+\setlength{\headrulewidth}{0pt} % suppress line drawn by default with fancyhead
+\setlength{\headsep}{0.2in}     % space between header and text
+\setlength{\headheight}{12pt}   % make room for header
+
+\lhead{\hspace*{-\sectionwidth}Arunesh Mishra} % force lhead all the way left
+\rhead{Page \thepage}  % put page number at right
+\cfoot{}  % the footer is empty
+\pagestyle{fancy} % set pagestyle for the document
+\begin{document} 
+\thispagestyle{empty} % this page does not have a header
+\name{ARUNESH MISHRA}
+\address{\\6204 44th Ave,\\
+Riverdale, MD 20737.\\
+Email: arunesh@cs.umd.edu\\
+(408) 505 - 5086 (cell)\\
+(301) 405 - 8162 (off)}
+
+
+\begin{resume}
+\vspace{0.1in}
+%\moveleft.5\sectionwidth\centerline{as a research intern for summer 2004.}  
+
+\section{EDUCATION}
+\vspace{0.1in} 
+{\bf Ph.D., Computer Science}  (December 2005),
+    \begin{itemize}
+         \item[] Advisor: Dr. William Arbaugh, \\
+		 Thesis: {\em Supporting Secure and Transparent Mobility in Wireless LANs} \\
+                 University of Maryland.
+    \end{itemize}
+
+{\bf M.S., Computer Science},   	
+    \begin{itemize}
+         \item[] University of Maryland, August 2003.
+    \end{itemize}
+
+{\bf B.Tech., Computer Science (President Gold Medalist)},
+    \begin{itemize}
+          \item[] Indian Institute of Technology, August 2000.
+    \end{itemize}
+
+ 
+\section{RESEARCH INTERESTS} 
+
+\vspace{0.1in}
+ Wireless Networks, Network and Systems Security.
+
+
+\section{EXPERIENCE} 
+\vspace{0.1in}
+ {\bf June 2001 - current},   	
+    \begin{itemize}
+         \item[] Research Assistant, (with Dr. William Arbaugh)\\
+                 {\em University of Maryland, College Park.}\\
+		 Focused on security and mobility issues in high speed Wireless LANs as a part of this dissertation research. 
+                 Worked towards building topological information in the form
+                 of so called {\em neighbor graphs} and mechanisms that use such structures to make the effects 
+                 of user mobility transparent to the higher layers of the networking stack. Such mechanisms address
+                 the security and performance issues of handoffs in wireless networks by making them faster and at the same time
+                 providing strong security guarantees. Studied the feasibility of neighbor graphs through a full-fledged testbed
+		 based implementation and rigorous simulations.
+
+                 Also worked on {\em channel management} issues in wireless LANs. Innovated a novel channel
+                 model, called {\em conflict-set} based channel management which address the joint problem of channel assignment and
+                 load balancing in the context of wireless infrastructure networks. Demonstrated that this new model
+		 and corresponding algorithms performed well in realistic scenarios
+                 through testbed based experiments and diverse simulations.
+
+    \end{itemize}
+
+ {\bf June 2004 - Aug 2004},   	
+    \begin{itemize}
+         \item[] Research Intern, (with Dr. James Kempf)\\
+		 {\em DoCoMo Research Labs, San Jose, CA.}
+
+		 Worked on developing a Layer 2.5 protocol that enabled a user's wireless connection to be
+                 multiplexed over multiple interfaces potentially connecting to diverse wireless networks thus providing a fully 
+                 hybrid wireless networking platform. Designed the protocol to be visible to the applications as a single
+                 network interface that managed the real interfaces based on policy or performance parameters. Built a Linux kernel based
+                 implementation as a part of this study.
+    \end{itemize}
+
+ {\bf May-Aug 2002 },   	
+    \begin{itemize}
+         \item[] Research Intern, (with Dr. Jonathan Agre)\\
+		{\em Fujitsu Labs of America, College Park, MD.}
+			
+		Worked on the design and implementation of one of the first wireless mesh networks, called the {\em SNOWNET}.
+	        The implementation showed the need for dynamic routing, authentication and privacy protocols. Implemented modifications to the IEEE 802.1X Standard
+                to support an inductive authentication method. This work was patented and Fujitsu is promoting this project's
+                protocols and ideas into the IEEE 802.11s Working Group.
+		
+    \end{itemize}
+
+ {\bf Aug-Dec 2000 },   	
+    \begin{itemize}
+         \item[] Teaching Assistant, (with Dr. Michelle Hugue)\\
+		{\em University of Maryland, College Park.}\\
+		Course : Advanced Data-Structures. 
+    \end{itemize}
+
+ {\bf May-Aug 1999 },   	
+    \begin{itemize}
+         \item[] Research Intern, (with Dr. Natwar Modani)\\
+		{\em IBM India Research Labs, New Delhi.}\\
+		Worked on designing an internet based auction system that used a {\em push} based mechanism to
+                coordinate bidding among competing buyers. Built a full-fledged web based implementation using a database as the
+                backend. Also constructed a graph theoretic model and developed bidding algorithms that
+                acted as agents on part of users to maximize certain objectives. This project received a best intern award
+                and resulted in a patent and a paper.
+
+    \end{itemize}
+
+
+\section{CONFERENCE PUBLICATIONS}
+\vspace{0.5cm}
+
+[1] ``Exploiting Partially Overlapping Channels in Wireless Networks: Turning a Peril into an Advantage'',
+Arunesh Mishra, Eric Rozner, Suman Banerjee and William Arbaugh, {\em in the Proceedings of ACM/USENIX Internet Measurement Conference (IMC)}
+, Berkeley, CA, October 2005.
+
+[2] ``Eliminating Handoff Latencies in 802.11 WLANs Using Multiple Radios: Applications, Experience, and Evaluation'', 
+Vladimir Brik, Arunesh Mishra and Suman Banerjee, {\em in the Proceedings of ACM/USENIX Internet Measurement Conference (IMC)}
+, Berkeley, CA, October 2005.
+
+
+[3] ``Improving the Latency of 802.11 hand-offs using Neighbor Graphs'', Min-ho Shin, Arunesh Mishra, and William A. Arbaugh,
+{\em in Proceedings of 2nd International Conference on Mobile Systems, Applications and Services (MobiSys)}, Boston, June 2004.
+
+
+[4] ``Context Caching Using Neighbor Graphs for Fast Handoffs in a Wireless Network'', Arunesh Mishra, 
+Min-ho Shin and William A. Arbaugh, {\em in Proceedings of the 23rd IEEE Conference on
+ Computer Communications (INFOCOM)}, Hong Kong, March 2004.
+
+%\vspace{0.1in}
+
+
+[5] ``Minimizing Broadcast Latency and Redundancy in Ad Hoc Networks'', Rajiv Gandhi, Srinivasan Parthasarathy and
+Arunesh Mishra {\em in Proceedings of the Fourth ACM International Symposium on
+Mobile Ad Hoc Networking and Computing (MOBIHOC)}, June 2003.
+
+[6] ``Winner Determination in Combinatorial Auctions with restriction on bidding patterns'', Arunesh Mishra and
+K. Balaji, {\em in Proceedings of the International Conference on Information Technology }, Bhuwaneshwar, India, 1999.
+
+\section{JOURNAL PUBLICATIONS}
+\vspace{0.5cm}
+
+[7] ``Weighted Coloring based Channel Assignment in WLANs'', Arunesh Mishra, Suman Banerjee and William Arbaugh,
+in {\em ACM SIGMOBILE Mobile Computing and Communications Review (MC2R)}, July, 2005.
+
+
+[8] ``Security Issues in IEEE 802.11 Wireless Local Area Networks: A Survey'', Arunesh Mishra, Nick L. Petroni Jr. William Arbaugh and Timothy Fraser, 
+in {\em  Wiley Interscience Wireless Communications and Mobile Computing Journal (Wiley Wireless)}, Vol 4 No 8, December, 2004.
+
+[9] ``Proactive Key Distribution Using Neighbor Graphs'', Arunesh Mishra,  Min-ho Shin and William A. Arbaugh,
+{\em in IEEE Wireless Communications, February, 2004}. 
+
+[10] ``An Empirical Analysis of the IEEE 802.11 MAC Layer Handoff Process'', Arunesh Mishra,  
+Min-ho Shin and William A. Arbaugh, {\em in the ACM SIGCOMM Computer Communication Review (ACM CCR),
+Vol 33, No 2, April 2003}. 
+
+
+
+\section{OTHERS (Workshops, IEEE Working Group Contributions)}
+
+\vspace{0.5cm}
+
+[11] ``Using Partially Overlapped Channels in Wireless Meshes'', Arunesh Mishra, Suman Banerjee and William Arbaugh,
+as an {\em invited paper} at the {\em First IEEE Workshop on Wireless Mesh Networks}, in conjunction with IEEE SECON,
+Santa Clara, September 2005.
+
+[12] ``Client-driven Channel Management in Wireless LANs'', Arunesh Mishra, Vladimir Brik, Suman Banerjee, Aravind Srinivasan
+and William Arbaugh, as a student poster at  the {\em The Eleventh Annual International Conference on Mobile Computing and Networking (MobiCom)},
+Cologne, Germany, September 2005.
+
+[13] ``Inclusion of Optimal-Channel Time into IEEE 802.11k'', Arunesh Mishra,  Min-ho Shin, William Arbaugh and Insun Lee,
+at the {\em IEEE 802.11 Working Group Meeting, San Francisco, Document IEEE 802.11-03/541 K, July 2003}.
+
+[14] ``Fast Handoffs Using Fixed Channel Probing'' Arunesh Mishra, Min-ho Shin, William Arbaugh and Insun Lee, at the 
+{\em IEEE 802.11 Working Group Meeting, San Francisco, Document IEEE 802.11-03/540 K, July 2003}.
+
+[15] ``Secure-Spaces: Location-based Secure Group Communication for Wireless Networks'', Arunesh Mishra and 
+Suman Banerjee, {\em in the ACM MOBICOM Mobile Computing and Communications Review (MC2R)}, Vol. 1, No. 2, October 2002.
+Also appears as a student poster in {\em ACM Mobicom}, September 2002.
+
+
+[16] ``An Initial Security Analysis of the IEEE 802.1X Standard'', Arunesh Mishra and William A. Arbaugh,
+{\em Technical Report, University of Maryland, Department of Computer Science CS-TR-4328, 
+UMIACS-TR-2002-10}, Feburary 2001, cited on {\em CNN} - Feb 18 2001.
+
+
+[17] ``Opensource Implementation of IEEE 802.1X Standard'', Arunesh Mishra and William A. Arbaugh,
+{\em Work-In-Progress Talk at the Tenth USENIX Security Symposium, August 2001}.
+
+
+[18] ``The Co-processor as an Independent Auditor'', Arunesh Mishra and Jesus Molina and William A. Arbaugh,
+{\em Work-In-Progress Talk at the IEEE Symposium on Security and Privacy, Oakland, CA, 2001}.
+
+
+
+\section{HONORS}
+\vspace{0.1in}
+
+{\bf President of India Gold Medal - 2000}
+    \begin{itemize}
+         \item[] Awarded for highest GPA among all 2000-batch undergraduate students at IIT Guwahati.
+    \end{itemize}
+
+
+{\bf Student Rank One Merit Scholarship 1997-2000}
+    \begin{itemize}
+         \item[] Indian Institute of Technology, Guwahati.
+    \end{itemize}
+
+{\bf Best Presentation Award - 1999}
+    \begin{itemize}
+         \item[] Awarded for best project intern at IBM India Research Labs, New Delhi. 
+    \end{itemize}
+
+\section{MISCELLANEOUS}
+\vspace{0.1in}
+
+{\bf PATENTS}
+    \begin{itemize}
+         \item[] ``A Secure Nomadic Wireless Network: SNOWNET'' with Fujitsu Labs of America, MD.
+	 \item[] ``Method for Fast Roaming in a Wireless Network'' with Samsung Electronics.
+    \end{itemize}
+
+{\bf MEDIA FOCUS}
+    \begin{itemize}
+         \item[] {\em CNN, PCWorld, ZDNet News, Slashdot},  ``Researchers claim to crack
+           wireless security'', Feburary 18, 2002.
+         \item[] {\em CNET Asia}, ``Wireless Network security shows cracks'', Feburary 19, 2002.  
+         \item[] {\em BusinessWeek Online}, ``This LAN is Whose LAN?'', Feburary 21, 2002. 
+	 \item[] {\em IEEE 802.1aa and 802.1X}, Working Group contributions.
+    \end{itemize}
+
+{\bf INDEPENDENT REVIEWER} 
+    \begin{itemize}
+         \item[]  International Conference on Network Protocols (ICNP) 2001.
+         \item[]  IEEE Infocom 2003, 2005.
+         \item[]  IEEE Globecom 2003.
+         \item[]  IEEE Wireless Communications and Networking Conference (WCNC) 2004.
+         \item[]  Wireless Communications and Mobile Computing Journal, John Wiley and Sons.
+         \item[]  ACM MOBICOM Mobile and Computer Communications Review (MC2R).
+	 \item[]  EURASIP Journal of Wireless Communications.
+	 \item[]  IEEE Transactions on Mobile Computing.
+         \item[]  Wiley Journal on Wireless Networks.
+    \end{itemize}
+
+\iffalse
+{\bf COMPUTING SKILLS} 
+    \begin{itemize}
+         \item {\bf Major Skills (5+ years of experience)}
+         \begin{itemize}
+                \item[] C (7 yrs) and C++ (7 yrs), 
+	        \item[] Java (4 yrs),
+	        \item[] Shell Programming (5 yrs),
+	        \item[] Systems and Network Programming (5 yrs).
+         \end{itemize}
+         \item {\bf Brief Exposure (project based)}
+         \begin{itemize}
+                \item[] Visual Basic (1 yr) , Visual C++ (1 yr), HTML(1 yr), COBOL, Access Basic, PL-SQL, Lisp, Prolog.
+         \end{itemize}
+         \item {\bf Platforms}
+         \begin{itemize}
+                \item[] UNIX(5yrs), HP-UX(4yrs), Linux(6yrs), Windows (5 yrs) (9x, NT, 2000, XP), IBM-AIX, Solaris(2 yrs).
+         \end{itemize}
+
+    \end{itemize}
+\fi
+ 
+\section{REFERENCES}
+   \begin{itemize}
+        \item[] Dr. William Arbaugh, University of Maryland, (waa@cs.umd.edu).
+	\item [] Dr. Bobby Bhattacharjee, University of Maryland (bobby@cs.umd.edu).
+	\item [] Dr. Jonathan Agre, Fujitsu Labs of America, (jagre@fla.fujitsu.com).
+	\item[] Dr. Jonathan Katz, University of Maryland, (jkatz@cs.umd.edu).
+   \end{itemize}
+\end{resume}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

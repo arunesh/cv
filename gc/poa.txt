@@ -1,0 +1,130 @@
+Petitioner: Google Inc.
+Beneficiary: Arunesh Mishra.
+Exhibits
+
+
+A. Letters of recommendation.
+
+  I will try to get letters from the following people:
+
+   1. Prof. Suman Banerjee. He is a professor at the University of Wisconsin, Madison. I conducted research with him as a Postdoc 
+Research Scientist.
+
+   2. Prof. William Arbaugh. My thesis advisor at the University of Maryland, College Park, where I obtained my PhD.
+
+    Others are experts in my domain that are aware of my work :
+
+   3. Dr. Dina Papagianakki. Intel Research.
+
+   4. Prof. Songwu. Professor at University of California, Los Angeles.
+
+   5. Dr. Ulas Kozat. NTT DoCoMo.
+ 
+   6. Dr. Samir Das. SUNY at Stony Brook.
+
+   7. Dr. Srikanth Krishnamurthy. University of California Riverside.
+
+   8. Dr. Lili Qiu.  University of Texas at Austin.
+
+   9. Dr. Edward Knightly. Rice University.
+
+   10. Dr. James Kempf, NTT DoCoMo.
+
+   11. Dr. Ravi Jain, Google.
+
+   12. Rajendra Kr Singh, Wireless Engineer, TeamF1.
+
+   13. Dr. Haiyun Luo.
+
+Question: I suppose I should draft a letter for each of these experts above and send them to you first. Now the letters should be 
+sufficiently different from each other yet contain certain key elements. What are these elements that I should insert into each 
+of these letters ?
+
+B. Beneficiary’s Manuscripts, Publications, and Presentations
+
+    There are 26 publications in all. Please see attached CV for journal and conference publications. The papers have appeared in 
+all top tier conference in the area of wireless and mobile systems.
+
+Question: What kind of evidence should I produce for these papers ? They have been published in top conferences and journals.
+
+
+C. Receipt of Major Prizes or Awards for Outstanding Achievement in the Academic Field.
+
+    *
+
+      President of India’ Gold medal for academic excellence in undergraduate degree program.
+
+
+Dr. Mishra’s work has received recognition in the media. His analysis of the security vulnerabilities in the IEEE 802.1x protocol 
+was cited in popular media cites, including CNN:
+
+    *
+
+      CNN, PCWorld, ZDNet News, Slashdot, “Researchers claim to crack wireless security”, Feburary 18, 2002.
+    *
+
+      CNET Asia, “Wireless network security shows cracks”, Feburary 19, 2002.
+    *
+
+      BusinessWeek Online, “This LAN is Whose LAN?”, Feburary 21, 2002.
+
+D. Published material in professional publications written by others about the alien's work in the academic field-
+
+Question.   I can produce a list of papers that talk about the work in some of my papers. I can also produce a list of advanced 
+graduate level courses taught in top universities that teach the content from some of my papers. Would this suffice in justifying 
+this particular point ?
+
+E. Evidence of the alien's participation as the judge of the work of others in the same or an allied academic field.
+
+ 
+
+    *
+
+      Dr. Mishra has been invited to review research contributions in all of the top tier conferences and journals in the area of 
+wireless and mobile systems. These specifically include IEEE Infocom, ACM ICNP, IEEE Globecom, IEEE WCNC, ACM Mobicom, ACM MC2R, 
+IEEE Transactions on Mobile Computing, IEEE Transactions on Networking, Wiley Wireless Journal and the ACM MONET Journal.
+    *
+
+      Dr. Mishra has served, on invitation, in the technical program committees for the following conferences: The 14thThe 14th 
+International Conference on High Performance  Computing (HiPC), 2007; the 14th The International Conference on
+              Advanced Computing and Communication (ADCOM), 2007;  the Fifth Annual IEEE Communications Society Conference on 
+Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2008, and WiMesh, the third IEEE workshop on Wireless Mesh Networks.
+
+Question: I am really unsure what evidence I can produce to back these statements.    
+
+F. Evidence of the individual's original scientific or scholarly research contributions .
+
+Dr. Mishra has the following patents (either accepted or pending):
+
+Issued:
+
+    *
+
+      Method for fast roaming in a wireless network. Patent # 7,263,357. Issued August 28, 2007.
+
+    *
+
+      Method for performing authenticated handover in a wireless local area network. Patent # 7,236,477. Issued June 26, 2007.
+    * Secure roaming in Wireless Networks, U.S. Patent 7,400,604 Issued July 2008.
+
+Pending:
+
+    *
+
+      Probing method for fast handoﬀ in WLAN, May 4, 2006.
+    *
+
+      Method for performing handoﬀ context-transfer in wireless network, April 21, 2005.
+    *
+
+      Method and System for client-driven channel management in wireless communication networks, April, 2007.
+    *
+
+      System and Method for Achieving wireless communications with enhanced usage of spectrum through eﬃcient use of overlapping 
+channels, June, 2007.
+
+
+Question: What evidence should I produce to back the above statements ?
+
+
+Thanks for your help.
