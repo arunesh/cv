@@ -1,0 +1,30 @@
+9,380,424_,Crowdsourced signal propagation model
+9,377,523_,Determining wireless access point locations using clustered data points
+9,355,387_,System and method for event management and information sharing
+9,098,589_,Geographic annotation of electronic resources
+8,989,101_,Systems, methods, and computer-readable media for identifying virtual access points of wireless networks
+8,977,265_,Method for performing handoff in wireless network
+8,954,094_,Mobile device functions based on transportation mode transitions
+8,914,483_,System and method for event management and information sharing
+8,868,762_,Efficient proximity detection
+8,838,103_,Method for performing handoff in wireless network
+8,837,360_,Determining geographic location of network hosts
+8,830,909_,Methods and systems to determine user relationships, events and spaces using wireless fingerprints
+8,825,078_,Probabilistic estimation of location based on wireless signal strength
+8,719,426_,Efficient proximity detection
+8,706,142_,Probabilistic estimation of location based on wireless signal strength and platform profiles
+8,688,041_,Methods and apparatus for secure, portable, wireless and multi-hop data networking
+8,498,592_,Method and apparatus for improving energy efficiency of mobile devices through energy profiling based rate adaptation
+8,478,280_,Minimum coverage area of wireless base station determination
+8,229,442_,Derivation of minimum coverage of cellular sectors with cellular-site spatial density and application specific data
+8,218,493_,System and method for interference mitigation in wireless networks
+8,150,367_,System and method of determining a location based on location of detected signals
+8,085,719_,System and method for achieving wireless communications with enhanced usage of spectrum through efficient use of overlapping channels
+8,064,921_,Method and system for client-driven channel management in wireless communication networks
+8,005,114_,Method and apparatus to vary the transmission bit rate within individual wireless packets through multi-rate packetization
+7,929,948_,Method for fast roaming in a wireless network
+7,881,667_,Methods and apparatus for secure, portable, wireless and multi-hop data networking
+7,634,230_,Methods and apparatus for secure, portable, wireless and multi-hop data networking
+7,421,268_,Method for fast roaming in a wireless network
+7,400,604_,Probing method for fast handoff in WLAN
+7,263,357_,Method for fast roaming in a wireless network
