@@ -1,0 +1,205 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.14)  20 MAY 2025 21:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**arunesh-onepage.tex
+(./arunesh-onepage.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/latex209.def
+File: latex209.def 2020/11/26 v0.55 Standard LaTeX file
+
+
+          Entering LaTeX 2.09 COMPATIBILITY MODE
+ *************************************************************
+    !!WARNING!!    !!WARNING!!    !!WARNING!!    !!WARNING!!   
+ 
+ This mode attempts to provide an emulation of the LaTeX 2.09
+ author environment so that OLD documents can be successfully
+ processed. It should NOT be used for NEW documents!
+ 
+ New documents should use Standard LaTeX conventions and start
+ with the \documentclass command.
+ 
+ Compatibility mode is UNLIKELY TO WORK with LaTeX 2.09 style
+ files that change any internal macros, especially not with
+ those that change the FONT SELECTION or OUTPUT ROUTINES.
+ 
+ Therefore such style files MUST BE UPDATED to use
+          Current Standard LaTeX: LaTeX2e.
+ If you suspect that you may be using such a style file, which
+ is probably very, very old by now, then you should attempt to
+ get it updated by sending a copy of this error message to the
+ author of that file.
+ *************************************************************
+
+\footheight=\dimen140
+\@maxsep=\dimen141
+\@dblmaxsep=\dimen142
+\@cla=\count188
+\@clb=\count189
+\mscount=\count190
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/tracefnt.sty
+Package: tracefnt 2020/12/22 v3.0n Standard LaTeX package (font tracing)
+\tracingfonts=\count191
+LaTeX Info: Redefining \selectfont on input line 107.
+Applying: [2021/06/01] Add hook to \selectfont  on input line 142.
+Already applied: [0000/00/00] Add hook to \selectfont  on input line 145.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 275.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 276.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 283.
+LaTeX Info: Redefining \em on input line 293.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 339.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 341.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 343.
+) (./res.cls
+Document Style `res' <26 Sep 89>.
+No auxiliary output files.
+
+\tabular@text=\toks17
+\tabular@head=\toks18
+\tabular@tail=\toks19
+\@ta=\toks20
+\undefined@token=\toks21
+\sectionwidth=\dimen143
+\sectionskip=\skip48
+\resumewidth=\dimen144
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.sty
+Compatibility mode: inputting `article.cls' instead of obsolete `article.sty'.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+\bibindent=\dimen145
+))
+\@columnwidth=\dimen146
+\c@numberofcolumns=\count266
+)
+(./fancyhead.sty
+\headrulewidth=\dimen147
+\footrulewidth=\dimen148
+\plainheadrulewidth=\dimen149
+\plainfootrulewidth=\dimen150
+\headwidth=\dimen151
+)
+\mylinewidth=\dimen152
+
+
+! LaTeX Error: LaTeX2e command \usepackage in LaTeX 2.09 document.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usepackage
+                [left=1.5cm, right=2cm]{geometry}
+? 
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usepackage[left=1.5cm, right=2cm]{
+                                        geometry}
+? 
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box51
+)
+No file arunesh-onepage.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 47
+.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 782 strings out of 474116
+ 13395 string characters out of 5743682
+ 1936187 words of memory out of 5000000
+ 23190 multiletter control sequences out of 15000+600000
+ 564633 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,11n,54p,226b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on arunesh-onepage.pdf (2 pages, 96712 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
